@@ -32,7 +32,7 @@ A modern web application built with Next.js 15 that allows users to play classic
 
 - **Frontend**: Next.js 15 with React 19
 - **Styling**: Tailwind CSS 4
-- **Authentication**: NextAuth.js v5
+- **Authentication**: NextAuth.js v4
 - **Database**: MongoDB with Mongoose ODM
 - **Language**: TypeScript
 - **Deployment**: Ready for Vercel deployment
