@@ -49,7 +49,7 @@ A modern web application built with Next.js 15 that allows users to play classic
 
    ```bash
    git clone <your-repo-url>
-   cd tic-tac-to
+   cd GameHub
    ```
 
 2. **Install dependencies**
