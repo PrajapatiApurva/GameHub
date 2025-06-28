@@ -65,7 +65,7 @@ A modern web application built with Next.js 15 that allows users to play classic
    NEXTAUTH_URL=http://localhost:3000<default>
    NEXTAUTH_SECRET=<secret>
    MONGODB_URI=mongodb://localhost:27017/gameapp
-   # or use MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/gameapp
+   # or use MongoDB Atlas: <your atlas URI/URL>
    ```
 
 4. **Set up MongoDB**
